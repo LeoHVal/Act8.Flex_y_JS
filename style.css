@@ -1,0 +1,27 @@
+
+body{
+    background-image: url("./imagenes/64be66c3272bb729e99758202ef6d4f2.png");
+    background-size: cover;
+}
+
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border-color: blue;
+    width: 80%;
+    height: 500px;
+    background-color: rgb(131, 190, 228);
+}
+       
+.elemento {
+    padding: 15px;
+    margin: 10px;
+}
+
+img{
+    width: 15vw;
+    height: 100%;
+}
